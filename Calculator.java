@@ -1,17 +1,17 @@
 public class Calculator {
     double add (double first, double second) {
-        return double;
+        return first;
     }
 
     double sub (double first, double second) {
-        return double;
+        return first;
     }
 
     double mul (double first, double second) {
-        return double;
+        return first;
     }
 
     double div (double first, double second) {
-        return double;
+        return first;
     }
 }
